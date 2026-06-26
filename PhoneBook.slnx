@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="PhoneBook.API/PhoneBook.API.csproj" />
+  <Project Path="PhoneBook.Application.Test/PhoneBook.Application.Test.csproj" Id="f6b1c384-3ddc-4ed1-acb5-68370e1f8c71" />
+  <Project Path="PhoneBook.Application/PhoneBook.Application.csproj" Id="b26bee08-8c39-4a99-8e4b-25469c87bc57" />
+  <Project Path="PhoneBook.Domain.Test/PhoneBook.Domain.Test.csproj" Id="e9599f1b-7c49-4a30-a968-a817370b9964" />
+  <Project Path="PhoneBook.Domain/PhoneBook.Domain.csproj" Id="f536c710-d12e-4766-b53c-3f4e489865c1" />
+  <Project Path="PhoneBook.Infrastructure.Test/PhoneBook.Infrastructure.Test.csproj" Id="132c9e25-a4d1-49bf-8cfa-577a02e2b1fa" />
+  <Project Path="PhoneBook.Infrastructure/PhoneBook.Infrastructure.csproj" Id="c71708b7-7695-413f-8c77-09837edc4d71" />
+</Solution>
